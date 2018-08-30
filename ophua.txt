@@ -7,3 +7,5 @@ adding in bug55 branch
 adding food as a new branch.
 
 my favourite color is white
+
+Copyright 2018 Aug
